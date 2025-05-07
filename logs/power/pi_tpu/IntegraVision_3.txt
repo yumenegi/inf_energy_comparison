@@ -1,0 +1,24 @@
+ANALOG
+Ch V2 Scale 5.00 V/, Pos -100 mV, Coup DC, 
+Skew 0.0 s
+Ch I2 Scale 500 mA/, Pos 0.0 A, Coup DC, 
+Skew 0.0 s
+Ch P2 Scale 11.3 W/, Pos 0.0 W, Coup DC, 
+
+
+TRIGGER
+Sweep Mode Auto
+Mode Edge, Source Curr 1, Slope Rising, Level 440 mA
+
+HORIZONTAL
+Mode Normal, Ref Center, Main Scale 5.000 s/, Main Delay 22.300000000000 s
+
+ACQUISITION
+Mode Normal, Realtime, Antialiasing On
+
+MEASUREMENTS
+Frequency(V1), Cur Channel off, Mean , Min , Max , Std Dev , Count 0 
+Pk-Pk(V1), Cur Channel off, Mean , Min , Max , Std Dev , Count 0 
+Frequency(I1), Cur Channel off, Mean , Min , Max , Std Dev , Count 0 
+CWA - Max Current(I1), Cur Incomplete, Mean , Min , Max , Std Dev , Count 0 
+
