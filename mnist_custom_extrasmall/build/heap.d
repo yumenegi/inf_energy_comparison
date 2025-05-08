@@ -1,0 +1,34 @@
+D:/mnist_custom_extrasmall/build/heap.o: \
+ D:/MSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Source/heap.c \
+ d:\msdk\tools\gnutools\10.3\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\stdint.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\machine\_default_types.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\features.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\_newlib_version.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_intsup.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_stdint.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\errno.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\errno.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\reent.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\_ansi.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\newlib.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\config.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\machine\ieeefp.h \
+ d:\msdk\tools\gnutools\10.3\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_types.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\machine\_types.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\lock.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\unistd.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\unistd.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\cdefs.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\types.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\machine\endian.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\machine\_endian.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\select.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_sigset.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_timeval.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\timespec.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_timespec.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_pthreadtypes.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\sys\sched.h \
+ d:\msdk\tools\gnutools\10.3\arm-none-eabi\include\machine\types.h
